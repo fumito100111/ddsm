@@ -49,9 +49,9 @@ python -m pip install git+https://github.com/fumito100111/ddsm.git@v0.0.0
 
 ### Supported Estimators
 
-- [EDMD](#edmd)
-- [gEDMD](#gedmd)
-- [SINDy](#sindy)
+- [`EDMD`](#edmd)
+- [`gEDMD`](#gedmd)
+- [`SINDy`](#sindy)
 
 > [!NOTE]
 > For more details on how to use each estimator, please refer to the [samples](./samples) directory.
