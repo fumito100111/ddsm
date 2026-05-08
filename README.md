@@ -1,6 +1,6 @@
 # DDSM (Data-driven Dynamical Systems Modeling) <!-- omit in toc -->
 
-[![Version](https://img.shields.io/badge/version-v0.0.0-1a7f37)](https://github.com/fumito100111/ddsm/releases)
+[![Version](https://img.shields.io/badge/version-v0.1.1-1a7f37)](https://github.com/fumito100111/ddsm/releases)
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/fumito100111/ddsm)](https://github.com/fumito100111/ddsm/issues)
@@ -38,12 +38,12 @@ This library provides tools for modeling and analyzing dynamical systems using d
 You can install the latest version of `DDSM` using pip (From GitHub):
 
 ```bash
-python -m pip install git+https://github.com/fumito100111/ddsm.git@v0.0.0
+python -m pip install git+https://github.com/fumito100111/ddsm.git@v0.1.1
 ```
 
 > [!TIP]
 > If you want to install a specific version, specify it after the `@` symbol.
-> For example, to install version `v0.0.0`, use `@v0.0.0`.
+> For example, to install version `v0.1.1`, use `@v0.1.1`.
 
 ## Usage
 
