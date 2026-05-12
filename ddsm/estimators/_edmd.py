@@ -182,7 +182,7 @@ class EDMD(DDSMBaseEstimator):
         ndarray
             Matrix logarithm of K divided by dt.
         """
-        return linalg.logm(self.K_) / dt
+        return linalg.logm(self.right_K) / dt
 
     def left_L(self, dt: float) -> np.ndarray:
         """
